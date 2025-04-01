@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Python Backend Developer at Avanzo Cyber Security Solutions, Thrissur, Kerala<br>Python-Django Full Stack Development Student Intern at Luminar Technolabs, Cochin.<br>B.Sc. Artificial Intelligence and Machine Learning graduate(2024).<br>
 
 
