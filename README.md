@@ -1,5 +1,9 @@
 # About Me:
-Python Backend Developer
+Hi, I’m Akash 👋  
+
+- Full-stack dev (Django + React)  
+- ML and cloud integrations  
+- Always open to collaboration and learning  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-u-k-02379a218) 
