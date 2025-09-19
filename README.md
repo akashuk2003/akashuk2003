@@ -1,6 +1,5 @@
 # About Me:
-Python Backend Developer at Avanzo Cyber Security Solutions, Thrissur, Kerala<br>Python-Django Full Stack Development Student Intern at Luminar Technolabs, Cochin.<br>B.Sc. Artificial Intelligence and Machine Learning graduate(2024).<br>
-
+Python Backend Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-u-k-02379a218) 
