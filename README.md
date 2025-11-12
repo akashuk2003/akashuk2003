@@ -1,4 +1,4 @@
-Akash — FullStack Developer
+Akash - FullStack Developer
 
 About Me:
 
