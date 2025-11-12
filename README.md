@@ -1,5 +1,5 @@
 🧑‍💻 Akash — Backend Developer (Python | Django | Redis | AWS)
-<p align="center"> <img src="https://github.com/akashuk2003/akashuk2003/blob/main/assets/cover.png" alt="cover" width="100%" /> </p> <p align="center"> <a href="https://github.com/akashuk2003"><img src="https://img.shields.io/github/followers/akashuk2003?label=Follow&style=social"></a> <img src="https://komarev.com/ghpvc/?username=akashuk2003&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/> </p>
+<p align="center"><a href="https://github.com/akashuk2003"><img src="https://img.shields.io/github/followers/akashuk2003?label=Follow&style=social"></a> <img src="https://komarev.com/ghpvc/?username=akashuk2003&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/> </p>
 🚀 About Me
 
 Hey there! I'm Akash, a Python backend developer passionate about building scalable, real-time, and production-grade backend systems.
