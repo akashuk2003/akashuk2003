@@ -1,11 +1,4 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <a href="https://github.com/akashuk2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Akash+—+Full+Stack+Developer;Python+%7C+Django+%7C+React+%7C+Redis+%7C+AWS;Building+Scalable+and+Production+Ready+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Akash%20—%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38)
 
 Akash - FullStack Developer
 
