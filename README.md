@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Akash%20%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Akash%20U%20K%20—%20Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+
 
 About Me:
 
