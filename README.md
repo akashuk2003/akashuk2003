@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Akash%20U%20K%20—%20Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:00cc88&height=220&section=header&text=Akash%20U%20K%20—%20Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+
 
 
 Hey there! I'm Akash, a Python developer who loves turning ideas into production-ready systems and optimizing every layer of performance.
